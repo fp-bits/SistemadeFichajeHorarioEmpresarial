@@ -10,3 +10,5 @@ facilitando informes al departamento de RRHH.
 - Registrar entradas y salidas de trabajadores.
 - Generar informes mensuales de horas trabajadas.
 - Permitir fichar desde varios dispositivos (PC, móvil, lector RFID…).
+
+:-)
